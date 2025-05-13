@@ -1,0 +1,25 @@
+From 23af804711a0116aea575f8edd8720782c6e438c Mon Sep 17 00:00:00 2001
+From: Igor Bugaiov <bugayov.igor@nixsolutions.com>
+Date: Tue, 13 May 2025 13:44:41 +0200
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+Signed-off-by: Igor Bugaiov <bugayov.igor@nixsolutions.com>
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 488d4d9..cf8e708 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++mod - Added firstFile.txt to git_1
++mod - Added firstFile.txt to git_1
+-- 
+2.47.0
+
